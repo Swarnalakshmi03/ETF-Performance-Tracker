@@ -1,4 +1,4 @@
-**ETF Performance Tracker — SPDR Funds Analysis**
+**ETF Performance Tracker - SPDR Funds Analysis**
 
 **Objective:**
 - To analyze 2 years of historical performance data across 8 major SPDR ETFs tracking returns, risk levels, and price trends to derive actionable investment insights.
